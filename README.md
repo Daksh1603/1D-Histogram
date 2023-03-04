@@ -20,8 +20,11 @@ The FourVector class is a subclass of Vector and represents a four-dimensional v
 + Step 2 : Run command prompt
 + Step 3 : Change the directory to that of downloaded folder.
 + Step 4 : Run the main executable file and pass the arguments along with it in the following order ( filename , distribution , xmin , xmax , number of bins )
+
 For Example :
+
 ```main input.dat pX -500 500 100```
 
 + Optional : In order to run the unit test for the following program , enter the following code to the command prompt terminal .
+
 ```test```
